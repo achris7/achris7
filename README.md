@@ -28,3 +28,4 @@ I'm building [Floe](https://www.floefinance.com) — the **AI Initiative Ledger*
 
 - 🌐 [floefinance.com](https://www.floefinance.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexjchristian/)
+- ✉️ ajchristian1982@gmail.com
