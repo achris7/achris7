@@ -14,7 +14,6 @@ I'm building [Floe](https://www.floefinance.com) — the **AI Initiative Ledger*
 | [floe-cli](https://github.com/Floe-Labs/floe-cli) | The Floe platform from the terminal (`npx @floelabs/cli init`) |
 | [floe-mcp-server](https://github.com/Floe-Labs/floe-mcp-server) | Floe for Claude, Cursor and any MCP client |
 | [floe-cookbook](https://github.com/Floe-Labs/floe-cookbook) | Runnable examples and reference agents |
-| [floe-labs-docs](https://github.com/Floe-Labs/floe-labs-docs) | Public docs |
 
 ## Activity
 
