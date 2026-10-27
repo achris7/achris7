@@ -1,10 +1,10 @@
 # Hi, I'm Alex 👋
 
-I'm building [Floe](https://www.floefinance.com) — the reconciliation layer to enable trusted task and outcome-priced AI.
+I'm building AI work, verified [Floe](https://www.floefinance.com).
 
-- 💸 Before Floe: payments at Airwallex, eBay and Western Union
+- 💸 Before Floe: payments, risk at Airwallex, eBay and Western Union
 - 📍 San Francisco
-- 🌱 Currently deep in billing, reconciliation, period close and task & outcome-based pricing for AI products
+- 🌱 Currently deep in ROI billing, reconciliation, period close and task & reconciliation for AI
 
 ## Open source at [Floe-Labs](https://github.com/Floe-Labs)
 
