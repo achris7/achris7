@@ -1,10 +1,10 @@
 # Hi, I'm Alex 👋
 
-I'm building AI work, verified [Floe](https://www.floefinance.com).
+I'm building verified AI trained for high stakes tasks.
 
-- 💸 Before Floe: payments, risk at Airwallex, eBay and Western Union
+- 💸 Before Floe: payments, compliance, risk at Airwallex, eBay and Western Union
 - 📍 San Francisco
-- 🌱 Currently deep in ROI billing, reconciliation, period close and task & reconciliation for AI
+- 🌱 Currently deep in agent training, ROI billing, reconciliation, & reconciliation for AI work
 
 ## Open source at [Floe-Labs](https://github.com/Floe-Labs)
 
