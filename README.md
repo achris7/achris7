@@ -18,6 +18,5 @@ I'm building verified AI trained for high stakes tasks.
 
 ## Contact
 
-- 🌐 [floefinance.com](https://www.floefinance.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexjchristian/)
 - ✉️ ajchristian1982 [at] gmail.com
